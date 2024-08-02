@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.kai_morich.simple_bluetooth_le_terminal"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:5-77
+11-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:5-77
+12-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING" />
+13-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:5-94
+13-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:22-91
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+14-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:5-94
+14-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:22-91
+15    <!-- <= 30 + Xiaomi/MIUI -->
+16    <uses-permission
+16-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:5-94
+17        android:name="android.permission.BLUETOOTH"
+17-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:22-65
+18        android:maxSdkVersion="32" />
+18-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:66-92
+19    <uses-permission
+19-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:5-100
+20        android:name="android.permission.BLUETOOTH_ADMIN"
+20-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:22-71
+21        android:maxSdkVersion="30" />
+21-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:72-98
+22
+23    <uses-permission-sdk-23
+23-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:5-112
+24        android:name="android.permission.ACCESS_FINE_LOCATION"
+24-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:29-83
+25        android:maxSdkVersion="30" />
+25-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:84-110
+26    <!-- >= API 31 -->
+27    <uses-permission
+27-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:5-15:78
+28        android:name="android.permission.BLUETOOTH_SCAN"
+28-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:22-70
+29        android:usesPermissionFlags="neverForLocation" />
+29-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:9-55
+30    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+30-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:5-75
+30-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:22-73
+31
+32    <permission
+32-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+33        android:name="de.kai_morich.simple_bluetooth_le_terminal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+33-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+34        android:protectionLevel="signature" />
+34-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+35
+36    <uses-permission android:name="de.kai_morich.simple_bluetooth_le_terminal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- mipmap/ic_launcher created with Android Studio -> New -> Image Asset using @color/colorPrimaryDark as background color -->
+36-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+36-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+37    <application
+37-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="true"
+41        android:icon="@mipmap/ic_launcher"
+41-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:20:9-43
+42        android:label="@string/app_name"
+42-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:21:9-41
+43        android:theme="@style/AppTheme" >
+43-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:22:9-40
+44        <activity
+44-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:24:9-32:20
+45            android:name="de.kai_morich.simple_bluetooth_le_terminal.MainActivity"
+45-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:25:13-41
+46            android:exported="true"
+46-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:27:13-36
+47            android:windowSoftInputMode="stateHidden|adjustResize" >
+47-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:26:13-67
+48            <intent-filter>
+48-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:28:13-31:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:17-69
+49-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:17-77
+51-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <service
+55-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:33:9-35:79
+56            android:name="de.kai_morich.simple_bluetooth_le_terminal.SerialService"
+56-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:34:13-42
+57            android:foregroundServiceType="remoteMessaging|connectedDevice" />
+57-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:35:13-76
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+61            android:authorities="de.kai_morich.simple_bluetooth_le_terminal.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/rhett/.gradle/caches/transforms-3/1b195f2d51eaf2fe0df831650232d5d2/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/rhett/.gradle/caches/transforms-3/1b195f2d51eaf2fe0df831650232d5d2/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.6.1] /home/rhett/.gradle/caches/transforms-3/1b195f2d51eaf2fe0df831650232d5d2/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+71                android:value="androidx.startup" />
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+72        </provider>
+73
+74        <receiver
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+75            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+76            android:directBootAware="false"
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+77            android:enabled="true"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+78            android:exported="true"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+79            android:permission="android.permission.DUMP" >
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+81                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+84                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+87                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+90                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.gradle/caches/transforms-3/57bf1a73683a7614dd37211c0e0f2a71/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+91            </intent-filter>
+92        </receiver>
+93    </application>
+94
+95</manifest>

@@ -1,0 +1,213 @@
+(footprint "CHV"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 5.3 -0.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7052fae7-4f67-4522-b659-a4adb2c5ef60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "4.7n"
+		(at 0.049693 1.114334 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b6f44ad-8b06-4ae3-99a7-eebe415bf37d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "THT-SMD:CHV"
+		(at 0.049693 0.114334 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8a524cd-7e07-4090-8299-e58b6428017f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.049693 0.114334 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1c918b1-44e8-47ec-9ce9-ff3b4ac849de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Unpolarized capacitor"
+		(at 0.049693 0.114334 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aabc90b6-c431-4315-87c5-dea8a0fed294")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.890677 -1.345918)
+		(end 0.531827 -1.345918)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bc5bc679-c7d4-4a0a-b8a9-c1b6965d77b7")
+	)
+	(fp_line
+		(start -0.890677 1.374082)
+		(end 0.531827 1.374082)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bb82da02-3a06-45d3-9080-81d85f9dc18c")
+	)
+	(fp_line
+		(start -4.714871 1.6)
+		(end 4.285129 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "66a2503c-4c08-4ead-b4a7-361931d2eed1")
+	)
+	(fp_line
+		(start -4.7 -1.6)
+		(end -4.714871 1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "50733236-9e00-42fe-84c2-fe346c9c2864")
+	)
+	(fp_line
+		(start 4.285129 1.6)
+		(end 4.3 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "21d9b817-92d5-4e5c-b295-172e59d43d1b")
+	)
+	(fp_line
+		(start 4.3 -1.6)
+		(end -4.7 -1.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ab02f113-92b6-4cad-966b-26065f0147e3")
+	)
+	(fp_line
+		(start -1.779425 -1.235918)
+		(end 1.420575 -1.235918)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b457efe-f4d9-400f-8f8e-72ce7d63cf57")
+	)
+	(fp_line
+		(start -1.779425 1.264082)
+		(end -1.779425 -1.235918)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "30a9a5ad-063b-415d-a742-388e179feed4")
+	)
+	(fp_line
+		(start 1.420575 -1.235918)
+		(end 1.420575 1.264082)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8213edf1-4928-4a07-a8c8-fc0929a8e483")
+	)
+	(fp_line
+		(start 1.420575 1.264082)
+		(end -1.779425 1.264082)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6066bed1-c7a6-4fa2-a9a7-2e4d8d4bbafa")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.2 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4e5f8268-0162-47c0-bed3-9ace58d66dca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3.714871 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "67979b82-0d46-44b6-9c0e-d6c2c1850c00")
+	)
+	(pad "1" smd roundrect
+		(at -1.654425 0)
+		(size 1.15 2.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.217391)
+		(uuid "16968e56-59ff-49e2-8147-0de896452b13")
+	)
+	(pad "2" smd roundrect
+		(at 1.295575 0)
+		(size 1.15 2.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.217391)
+		(uuid "1ff40684-ddce-48a0-b839-739db8a1f419")
+	)
+	(pad "2" thru_hole oval
+		(at 3.285129 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f7e1a55b-43d1-4247-bf24-aa31504d9041")
+	)
+)

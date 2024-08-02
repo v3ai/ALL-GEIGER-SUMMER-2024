@@ -1,0 +1,4 @@
+#Wed Jun 05 16:06:52 EDT 2024
+base.0=/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
