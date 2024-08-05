@@ -7,6 +7,11 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "REV-11")
+		(company "Designed by Rhett Applestone")
+		(comment 1 "Project of MIT-NSE")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -115,7 +120,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "/home/rhett/Desktop/REV-10-KI-THT-SMD-OUTPUTS/")
+			(outputdirectory "/home/rhett/Desktop/REV11-KI-THT-SMD-OUTPUTS")
 		)
 	)
 	(net 0 "")
@@ -12767,6 +12772,22 @@
 		(layer "F.Cu")
 		(net 5)
 		(uuid "fba5fddb-6329-49df-a23d-0d653a201616")
+	)
+	(segment
+		(start 135.44 85.535)
+		(end 133.58 83.675)
+		(width 0.8128)
+		(layer "F.Cu")
+		(net 6)
+		(uuid "11f46360-e0c4-4760-bb56-294ed43c007f")
+	)
+	(segment
+		(start 136.01 85.535)
+		(end 135.44 85.535)
+		(width 0.8128)
+		(layer "F.Cu")
+		(net 6)
+		(uuid "2500aec0-ca16-4ff4-8658-65e074c3dd8c")
 	)
 	(segment
 		(start 146.17 82.435)
