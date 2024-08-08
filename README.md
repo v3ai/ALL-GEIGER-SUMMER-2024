@@ -1,4 +1,8 @@
-These files contain all the work Rhett Applestone has done in the summer of 2024 for the MIT-NSE Geiger Project
+## These files contain all the work Rhett Applestone has done in the summer of 2024 for the MIT-NSE Geiger Project
+
+![GEIGER](GEIGER.png)
+
+
 
 We use Kicad for PCB design, and Freecad primarily for 3d modeling and engineering drawings. Although now, Ondsel (a Freecad derivitive)
 seem much easier to use an more polished and uses the same file format as freecad.(FCStd) 
