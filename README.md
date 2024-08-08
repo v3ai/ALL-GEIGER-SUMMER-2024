@@ -9,7 +9,6 @@ seem much easier to use an more polished and uses the same file format as freeca
 
 
 I choose to switch to Kicad so anyone could build upon the work I did. Kicad Is Free and open source. Fusion-360 Cad and Electronis is "free" for students and maybe hobbyists, but anyone who has dealt with
-
 software knows there's a big difference between a link to download software immedately and like a "fill out this form and make an account, request a trial and yada yada."
 
 Fusion-360 is also heavily cloud based and really doesnt like you to save things to disk. Cloud based in my opinion is garbage, I don't want to be forever locked in to thier ecosystem, I want to save files to my disk.
