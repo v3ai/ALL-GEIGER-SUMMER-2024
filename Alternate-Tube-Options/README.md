@@ -18,7 +18,7 @@ info@lndinc.com
 
 To make SBM-20 reproducitons
 
-I was specifically in contact [with 
+I was specifically in contact with 
 
 BILL LEHNERT, SALES MANAGER
 
@@ -42,6 +42,19 @@ Suprisingly a good tube, didn't expect it, but after trying it out, it works fai
 
 3. Using the Gamma-7C SBM-20 reproduction https://consensus-group.ru/radiation-counters/gamma-radiation/256-gamma-7c
 
- (they're also russia based, but atleast we know poople are making SBM reproductions)
+(they're also russia based, but atleast we know poople are making SBM reproductions)
 
- company seemed pretty eh
+company seemed pretty eh
+
+appartently you can buy some here https://ekosf.ru/product/gamma-7ts/
+
+
+
+I made a few posts about the gamma 7c that can be found here and here
+
+https://gqelectronicsllc.com/forum/topic.asp?TOPIC_ID=10541&#11843
+
+https://fusor.net/board/viewtopic.php?p=102705#p102705
+
+someone also mentioned the J305 with a metal case, althoug I haven't tried or
+really considered this tube
