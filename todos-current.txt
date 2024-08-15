@@ -1,0 +1,47 @@
+REV-10 Is the last stable board, REV-11 is quite experimental and removed the potentiometer, and the second mosfet, it should be determined if these need to be added back for the next rev, or just stick with REV-10 and
+dont worry about it.
+
+
+
+
+To Do Current:
+
+check all parts got here from digikey (for the 30 pcs assembly)
+
+fix double count bug in apps
+
+maybe make android app somewhat more tailored, not just basic terminal
+
+make it so the andriod app esp code transmits numbers instead of strings
+
+re factor esp code and remove un-needed things
+
+find out if wifi with the esp-32 works (current spike might be a problem)
+
+fix labels off center printing
+
+
+
+
+
+
+To Do More long term:
+
+Ask micro center if they'd like to carry the kits
+
+Look Out for email from LND
+
+Add Things back to next revs, Potentiometer, Second mosfet maybe?
+
+
+
+
+
+To Do For Rev 11:
+
+Figure out why Mosfet is heating up Rev 11
+
+figure out which resistor cap combo is best for the rev 11
+
+
+
