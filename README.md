@@ -2,7 +2,9 @@
 
 ![GEIGER](GEIGER.png)
 
+NOTICE:
 
+REV-10 is the most stable version, REV-11 has not been proven to work and seems to have problems with the mosfets heating up, atleast when run from a bench supply
 
 We use Kicad for PCB design, and Freecad primarily for 3d modeling and engineering drawings. Although now, Ondsel (a Freecad derivitive)
 seem much easier to use an more polished and uses the same file format as freecad.(FCStd) 
