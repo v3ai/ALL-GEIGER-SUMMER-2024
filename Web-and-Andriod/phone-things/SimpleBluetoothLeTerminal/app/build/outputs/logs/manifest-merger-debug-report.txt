@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.android.material:material:1.11.0] /home/rhett/.gradle/caches/transforms-3/01213299418de143c440c868acbaa44e/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/rhett/.gradle/caches/transforms-3/9608944697af8ed1bbb5199b42d31a8d/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rhett/.gradle/caches/transforms-3/467e0ff4e9f2a7366cecffa12bd8c8c6/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
@@ -46,64 +46,64 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/r
 MERGED from [androidx.print:print:1.0.0] /home/rhett/.gradle/caches/transforms-3/0d7adcc28af4c090394af56e66d7ed19/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/rhett/.gradle/caches/transforms-3/6e96cc84d3aa824867e82ea6062e63b6/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:5-77
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:22-74
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:5-77
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:5-77
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:22-74
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:5-94
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:5-94
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:22-91
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:22-91
 uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:5-94
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:5-94
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:22-91
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:22-91
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:5-94
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:5-94
 	android:maxSdkVersion
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:66-92
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:66-92
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:22-65
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:5-100
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:5-100
 	android:maxSdkVersion
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:72-98
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:72-98
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:22-71
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:22-71
 uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:5-112
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:5-112
 	android:maxSdkVersion
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:84-110
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:84-110
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:29-83
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:29-83
 uses-permission#android.permission.BLUETOOTH_SCAN
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:5-15:78
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:5-15:78
 	android:usesPermissionFlags
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:9-55
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:9-55
 	tools:targetApi
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:56-75
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:56-75
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:22-70
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:22-70
 uses-permission#android.permission.BLUETOOTH_CONNECT
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:5-75
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:5-75
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:22-73
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:22-73
 application
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
 MERGED from [com.google.android.material:material:1.11.0] /home/rhett/.gradle/caches/transforms-3/01213299418de143c440c868acbaa44e/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] /home/rhett/.gradle/caches/transforms-3/01213299418de143c440c868acbaa44e/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rhett/.gradle/caches/transforms-3/467e0ff4e9f2a7366cecffa12bd8c8c6/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -121,45 +121,45 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/rhett/.grad
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rhett/.gradle/caches/transforms-3/e011faac07fa8f2bd75c0b001230047d/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rhett/.gradle/caches/transforms-3/e011faac07fa8f2bd75c0b001230047d/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:21:9-41
 	tools:ignore
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:23:9-60
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:23:9-60
 	android:icon
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:20:9-43
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:20:9-43
 	android:theme
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:22:9-40
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:22:9-40
 activity#de.kai_morich.simple_bluetooth_le_terminal.MainActivity
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:24:9-32:20
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:24:9-32:20
 	android:windowSoftInputMode
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:26:13-67
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:26:13-67
 	android:exported
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:27:13-36
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:25:13-41
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:28:13-31:29
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:28:13-31:29
 action#android.intent.action.MAIN
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:27-74
 service#de.kai_morich.simple_bluetooth_le_terminal.SerialService
-ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:33:9-35:79
+ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:33:9-35:79
 	android:foregroundServiceType
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:35:13-76
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:35:13-76
 	android:name
-		ADDED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:34:13-42
+		ADDED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:34:13-42
 uses-sdk
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
-INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.11.0] /home/rhett/.gradle/caches/transforms-3/01213299418de143c440c868acbaa44e/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.11.0] /home/rhett/.gradle/caches/transforms-3/01213299418de143c440c868acbaa44e/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/rhett/.gradle/caches/transforms-3/9608944697af8ed1bbb5199b42d31a8d/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
@@ -243,9 +243,9 @@ MERGED from [androidx.print:print:1.0.0] /home/rhett/.gradle/caches/transforms-3
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/rhett/.gradle/caches/transforms-3/6e96cc84d3aa824867e82ea6062e63b6/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/rhett/.gradle/caches/transforms-3/6e96cc84d3aa824867e82ea6062e63b6/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/rhett/.gradle/caches/transforms-3/1b195f2d51eaf2fe0df831650232d5d2/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20

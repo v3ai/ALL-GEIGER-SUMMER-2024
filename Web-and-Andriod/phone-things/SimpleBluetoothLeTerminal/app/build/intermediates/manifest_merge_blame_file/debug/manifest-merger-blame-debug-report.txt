@@ -9,47 +9,47 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:5-77
-11-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:22-74
+11-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:5-77
+11-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:5:22-74
 12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-12-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:5-77
-12-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:22-74
+12-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:5-77
+12-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:6:22-74
 13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_REMOTE_MESSAGING" />
-13-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:5-94
-13-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:22-91
+13-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:5-94
+13-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:7:22-91
 14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
-14-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:5-94
-14-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:22-91
+14-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:5-94
+14-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:8:22-91
 15    <!-- <= 30 + Xiaomi/MIUI -->
 16    <uses-permission
-16-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:5-94
+16-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:5-94
 17        android:name="android.permission.BLUETOOTH"
-17-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:22-65
+17-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:22-65
 18        android:maxSdkVersion="32" />
-18-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:66-92
+18-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:10:66-92
 19    <uses-permission
-19-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:5-100
+19-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:5-100
 20        android:name="android.permission.BLUETOOTH_ADMIN"
-20-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:22-71
+20-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:22-71
 21        android:maxSdkVersion="30" />
-21-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:72-98
+21-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:11:72-98
 22
 23    <uses-permission-sdk-23
-23-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:5-112
+23-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:5-112
 24        android:name="android.permission.ACCESS_FINE_LOCATION"
-24-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:29-83
+24-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:29-83
 25        android:maxSdkVersion="30" />
-25-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:84-110
+25-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:12:84-110
 26    <!-- >= API 31 -->
 27    <uses-permission
-27-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:5-15:78
+27-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:5-15:78
 28        android:name="android.permission.BLUETOOTH_SCAN"
-28-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:22-70
+28-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:14:22-70
 29        android:usesPermissionFlags="neverForLocation" />
-29-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:9-55
+29-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:15:9-55
 30    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
-30-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:5-75
-30-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:22-73
+30-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:5-75
+30-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:16:22-73
 31
 32    <permission
 32-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
@@ -62,43 +62,43 @@
 36-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 36-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 37    <application
-37-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
+37-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:19:5-36:19
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 38-->[androidx.core:core:1.9.0] /home/rhett/.gradle/caches/transforms-3/80ecb3125b3fdd8b05d35979627b84fb/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 39        android:debuggable="true"
 40        android:extractNativeLibs="true"
 41        android:icon="@mipmap/ic_launcher"
-41-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:20:9-43
+41-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:20:9-43
 42        android:label="@string/app_name"
-42-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:21:9-41
+42-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:21:9-41
 43        android:theme="@style/AppTheme" >
-43-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:22:9-40
+43-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:22:9-40
 44        <activity
-44-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:24:9-32:20
+44-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:24:9-32:20
 45            android:name="de.kai_morich.simple_bluetooth_le_terminal.MainActivity"
-45-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:25:13-41
+45-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:25:13-41
 46            android:exported="true"
-46-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:27:13-36
+46-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:27:13-36
 47            android:windowSoftInputMode="stateHidden|adjustResize" >
-47-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:26:13-67
+47-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:26:13-67
 48            <intent-filter>
-48-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:28:13-31:29
+48-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:28:13-31:29
 49                <action android:name="android.intent.action.MAIN" />
-49-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:17-69
-49-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:25-66
+49-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:17-69
+49-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:29:25-66
 50
 51                <category android:name="android.intent.category.LAUNCHER" />
-51-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:17-77
-51-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:27-74
+51-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:17-77
+51-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:30:27-74
 52            </intent-filter>
 53        </activity>
 54
 55        <service
-55-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:33:9-35:79
+55-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:33:9-35:79
 56            android:name="de.kai_morich.simple_bluetooth_le_terminal.SerialService"
-56-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:34:13-42
+56-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:34:13-42
 57            android:foregroundServiceType="remoteMessaging|connectedDevice" />
-57-->/home/rhett/Desktop/Both/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:35:13-76
+57-->/home/rhett/Desktop/ALL-GEIGER-SUMMER-2024/Web-and-Andriod/phone-things/SimpleBluetoothLeTerminal/app/src/main/AndroidManifest.xml:35:13-76
 58
 59        <provider
 59-->[androidx.emoji2:emoji2:1.2.0] /home/rhett/.gradle/caches/transforms-3/59e7ff404b0e0c287007e238ab305d59/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
