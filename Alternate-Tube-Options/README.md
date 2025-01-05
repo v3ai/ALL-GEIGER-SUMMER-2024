@@ -56,5 +56,5 @@ https://gqelectronicsllc.com/forum/topic.asp?TOPIC_ID=10541&#11843
 
 https://fusor.net/board/viewtopic.php?p=102705#p102705
 
-someone also mentioned the J305 with a metal case, althoug I haven't tried or
+someone also mentioned the J305 with a metal case, although I haven't tried or
 really considered this tube
