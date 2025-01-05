@@ -21,6 +21,7 @@ Fusion also loads really slow, which is infuriating when you want to make small 
 
 Both Kicad and Freecad (Or Ondsel) do things somewhat differently from other EDA or CAD programs, and I would recomend watching and completing a tutorial on both
 
+There is another Experimental board in the EXPERIMENTAL-BOARD folder, seems to have some problems with mosfets heating up, more investigation needed.
 
 
 ### Getting Software set up
